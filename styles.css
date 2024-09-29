@@ -89,6 +89,16 @@
 }
 
 /** box 4 **/
+.nav-language{
+    background-color: #0f1111;
+    width: 40px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 6px;
+    border: transparent;
+
+  
+}
 
 /** box 5 **/
 
